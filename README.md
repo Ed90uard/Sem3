@@ -1,2 +1,3 @@
 # Sem3
-`git pull --allow-unrelated histories origin main` - команда для слияния несвязанных историй
+Работа с Github
+`git pull --allow-unrelated histories origin main` - Kоманда для слияния несвязанных историй
